@@ -1,0 +1,268 @@
+Oct 29, 2025 11:29:53 A.M. MuscleServer say
+INFO: Server on 8000
+Oct 29, 2025 11:29:53 A.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 11:30:25 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:57548 handlers=1
+Oct 29, 2025 11:30:25 A.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 11:30:25 A.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:57548
+Oct 29, 2025 11:30:25 A.M. MuscleServer say
+INFO: OPEN created: KE7DU for alice
+Oct 29, 2025 11:30:25 A.M. MuscleServer say
+INFO: Session OPEN created: KE7DU for alice
+Oct 29, 2025 11:30:53 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:57552 handlers=2
+Oct 29, 2025 11:30:53 A.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 11:30:53 A.M. MuscleServer say
+INFO: Authenticated: coach as TRAINER from /127.0.0.1:57552
+Oct 29, 2025 11:30:57 A.M. MuscleServer say
+INFO: ATTACH: trainer attached to session KE7DU
+Oct 29, 2025 11:34:02 A.M. MuscleServer say
+INFO: DETACHED trainer from KE7DU
+Oct 29, 2025 11:34:05 A.M. MuscleServer say
+INFO: ATTACH: trainer attached to session KE7DU
+Oct 29, 2025 11:34:23 A.M. MuscleServer say
+INFO: DETACHED trainer from KE7DU
+Oct 29, 2025 11:35:24 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:57560 handlers=3
+Oct 29, 2025 11:35:24 A.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 11:35:24 A.M. MuscleServer say
+INFO: Authenticated: bella as CLIENT from /127.0.0.1:57560
+Oct 29, 2025 11:35:24 A.M. MuscleServer say
+INFO: OPEN created: ZX83R for bella
+Oct 29, 2025 11:35:24 A.M. MuscleServer say
+INFO: Session OPEN created: ZX83R for bella
+Oct 29, 2025 12:36:12 P.M. MuscleServer say
+INFO: ATTACH: trainer attached to session KE7DU
+Oct 29, 2025 12:37:06 P.M. MuscleServer say
+INFO: ATTACH: trainer attached to session ZX83R
+Oct 29, 2025 12:37:15 P.M. MuscleServer say
+INFO: CLOSED session KE7DU
+Oct 29, 2025 12:37:15 P.M. MuscleServer say
+INFO: Client disconnected
+Oct 29, 2025 3:33:21 P.M. MuscleServer say
+INFO: CLOSED session ZX83R
+Oct 29, 2025 3:33:21 P.M. MuscleServer say
+INFO: Client disconnected
+Oct 29, 2025 3:33:24 P.M. MuscleServer say
+INFO: DETACHED trainer from ZX83R
+Oct 29, 2025 3:33:24 P.M. MuscleServer say
+INFO: Client disconnected
+Oct 29, 2025 3:33:58 P.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59251 handlers=1
+Oct 29, 2025 3:33:58 P.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 3:33:58 P.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:59251
+Oct 29, 2025 3:33:58 P.M. MuscleServer say
+INFO: OPEN created: 9K8BG for alice
+Oct 29, 2025 3:33:58 P.M. MuscleServer say
+INFO: Session OPEN created: 9K8BG for alice
+Oct 29, 2025 3:34:09 P.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59252 handlers=2
+Oct 29, 2025 3:34:09 P.M. MuscleServer say
+INFO: Waiting...
+Oct 29, 2025 3:34:09 P.M. MuscleServer say
+INFO: Authenticated: coach as TRAINER from /127.0.0.1:59252
+Oct 29, 2025 3:34:14 P.M. MuscleServer say
+INFO: ATTACH: trainer attached to session 9K8BG
+Oct 29, 2025 3:34:40 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Endurance
+Oct 29, 2025 3:34:49 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Endurance
+Oct 29, 2025 3:34:52 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Endurance
+Oct 29, 2025 3:34:53 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Endurance
+Oct 29, 2025 3:35:27 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 29, 2025 3:35:27 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 29, 2025 3:35:29 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 29, 2025 3:35:29 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 29, 2025 3:35:35 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 29, 2025 3:35:38 P.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Upper
+Oct 29, 2025 4:29:18 P.M. MuscleServer say
+INFO: DETACHED trainer from 9K8BG
+Oct 29, 2025 4:29:18 P.M. MuscleServer say
+INFO: Client disconnected
+Oct 29, 2025 4:29:19 P.M. MuscleServer say
+INFO: CLOSED session 9K8BG
+Oct 29, 2025 4:29:19 P.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 9:07:17 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59653 handlers=1
+Oct 30, 2025 9:07:17 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 9:07:17 A.M. MuscleServer say
+INFO: Authenticated: coach as TRAINER from /127.0.0.1:59653
+Oct 30, 2025 9:07:34 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59657 handlers=2
+Oct 30, 2025 9:07:34 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 9:07:34 A.M. MuscleServer say
+INFO: Authenticated: bella as CLIENT from /127.0.0.1:59657
+Oct 30, 2025 9:07:34 A.M. MuscleServer say
+INFO: OPEN created: CHVV2 for bella
+Oct 30, 2025 9:07:34 A.M. MuscleServer say
+INFO: Session OPEN created: CHVV2 for bella
+Oct 30, 2025 9:07:45 A.M. MuscleServer say
+INFO: ATTACH: trainer attached to session CHVV2
+Oct 30, 2025 9:08:23 A.M. MuscleServer say
+INFO: DETACHED trainer from CHVV2
+Oct 30, 2025 9:08:23 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 9:08:25 A.M. MuscleServer say
+INFO: CLOSED session CHVV2
+Oct 30, 2025 9:08:25 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 9:23:24 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59701 handlers=1
+Oct 30, 2025 9:23:24 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 9:23:24 A.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:59701
+Oct 30, 2025 9:23:24 A.M. MuscleServer say
+INFO: OPEN created: G4EBF for alice
+Oct 30, 2025 9:23:24 A.M. MuscleServer say
+INFO: Session OPEN created: G4EBF for alice
+Oct 30, 2025 9:23:57 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59705 handlers=2
+Oct 30, 2025 9:23:57 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 9:23:57 A.M. MuscleServer say
+INFO: Authenticated: coach as TRAINER from /127.0.0.1:59705
+Oct 30, 2025 9:23:59 A.M. MuscleServer say
+INFO: ATTACH: trainer attached to session G4EBF
+Oct 30, 2025 9:24:30 A.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Upper
+Oct 30, 2025 9:24:33 A.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Lower
+Oct 30, 2025 9:24:36 A.M. MuscleServer say
+INFO: Trainer coach updated client alice -> type=Hypertrophy_Balanced
+Oct 30, 2025 10:04:32 A.M. MuscleServer say
+INFO: DETACHED trainer from G4EBF
+Oct 30, 2025 10:04:32 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:04:34 A.M. MuscleServer say
+INFO: CLOSED session G4EBF
+Oct 30, 2025 10:04:34 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:04:48 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59821 handlers=1
+Oct 30, 2025 10:04:48 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:04:48 A.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:59821
+Oct 30, 2025 10:04:48 A.M. MuscleServer say
+INFO: OPEN created: R6CQV for alice
+Oct 30, 2025 10:04:48 A.M. MuscleServer say
+INFO: Session OPEN created: R6CQV for alice
+Oct 30, 2025 10:05:10 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59825 handlers=2
+Oct 30, 2025 10:05:10 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:05:10 A.M. MuscleServer say
+INFO: Authenticated: bella as CLIENT from /127.0.0.1:59825
+Oct 30, 2025 10:05:10 A.M. MuscleServer say
+INFO: OPEN created: 3ZHYE for bella
+Oct 30, 2025 10:05:10 A.M. MuscleServer say
+INFO: Session OPEN created: 3ZHYE for bella
+Oct 30, 2025 10:05:52 A.M. MuscleServer say
+INFO: CLOSED session 3ZHYE
+Oct 30, 2025 10:05:52 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:10:08 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59837 handlers=2
+Oct 30, 2025 10:10:08 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:10:08 A.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:59837
+Oct 30, 2025 10:10:08 A.M. MuscleServer say
+INFO: OPEN created: Q8ZUH for alice
+Oct 30, 2025 10:10:08 A.M. MuscleServer say
+INFO: Session OPEN created: Q8ZUH for alice
+Oct 30, 2025 10:44:57 A.M. MuscleServer say
+INFO: Server on 8000
+Oct 30, 2025 10:44:57 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:45:19 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59894 handlers=1
+Oct 30, 2025 10:45:19 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:45:19 A.M. MuscleServer say
+INFO: Authenticated: alice as CLIENT from /127.0.0.1:59894
+Oct 30, 2025 10:45:19 A.M. MuscleServer say
+INFO: OPEN created: 7NV77 for alice
+Oct 30, 2025 10:45:19 A.M. MuscleServer say
+INFO: Session OPEN created: 7NV77 for alice
+Oct 30, 2025 10:45:42 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59898 handlers=2
+Oct 30, 2025 10:45:42 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:45:42 A.M. MuscleServer say
+INFO: Authenticated: bella as CLIENT from /127.0.0.1:59898
+Oct 30, 2025 10:45:42 A.M. MuscleServer say
+INFO: OPEN created: FT3WK for bella
+Oct 30, 2025 10:45:42 A.M. MuscleServer say
+INFO: Session OPEN created: FT3WK for bella
+Oct 30, 2025 10:46:50 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59904 handlers=3
+Oct 30, 2025 10:46:50 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:46:50 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:46:50 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:46:54 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59905 handlers=3
+Oct 30, 2025 10:46:54 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 10:46:54 A.M. MuscleServer say
+INFO: Authenticated: coach as TRAINER from /127.0.0.1:59905
+Oct 30, 2025 10:46:57 A.M. MuscleServer say
+INFO: ATTACH: trainer attached to session FT3WK
+Oct 30, 2025 10:47:16 A.M. MuscleServer say
+INFO: Trainer coach updated client bella -> workout=Hypertrophy_Upper
+Oct 30, 2025 10:47:27 A.M. MuscleServer say
+INFO: Trainer coach updated client bella -> workout=Hypertrophy_Balanced
+Oct 30, 2025 10:47:32 A.M. MuscleServer say
+INFO: Trainer coach updated client bella -> workout=Strength
+Oct 30, 2025 10:48:11 A.M. MuscleServer say
+INFO: Trainer coach updated client bella -> workout=Strength
+Oct 30, 2025 10:48:37 A.M. MuscleServer say
+INFO: Trainer coach updated client bella -> workout=Hypertrophy_Upper
+Oct 30, 2025 10:52:56 A.M. MuscleServer say
+INFO: DETACHED trainer from FT3WK
+Oct 30, 2025 10:52:56 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:53:00 A.M. MuscleServer say
+INFO: CLOSED session FT3WK
+Oct 30, 2025 10:53:00 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 10:53:06 A.M. MuscleServer say
+INFO: CLOSED session 7NV77
+Oct 30, 2025 10:53:06 A.M. MuscleServer say
+INFO: Client disconnected
+Oct 30, 2025 11:02:15 A.M. MuscleServer say
+INFO: Server on 8000
+Oct 30, 2025 11:02:15 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 11:02:17 A.M. MuscleServer say
+INFO: Connected: /127.0.0.1:59927 handlers=1
+Oct 30, 2025 11:02:17 A.M. MuscleServer say
+INFO: Waiting...
+Oct 30, 2025 11:02:17 A.M. MuscleServer say
+INFO: Authenticated: bella as CLIENT from /127.0.0.1:59927
+Oct 30, 2025 11:02:17 A.M. MuscleServer say
+INFO: OPEN created: FFFAW for bella
+Oct 30, 2025 11:02:17 A.M. MuscleServer say
+INFO: Session OPEN created: FFFAW for bella

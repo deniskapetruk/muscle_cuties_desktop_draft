@@ -1,0 +1,10 @@
+
+Privacy Policy - Muscle Cuties
+
+Owner: Denis Petruk
+Contact: deniska.petruk@icloud.com
+
+This application stores basic user and trainer account information locally for demonstration purposes only.
+Data stored: username, email, password (plain text for demo), account creation date, assigned trainer mapping.
+No data is transmitted to third parties. Data is stored only in local runtime memory and local files within the application folder.
+If you want data removed or have privacy concerns contact: deniska.petruk@icloud.com
